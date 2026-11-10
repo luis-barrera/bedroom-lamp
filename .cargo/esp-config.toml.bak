@@ -1,0 +1,8 @@
+# Keep user/runtime configuration values in this file.
+# Remove the .bak and set variables
+[env]
+ESP_HAL_CONFIG_MIN_CHIP_REVISION = "100"
+SSID="example"
+PASSWORD="example"
+MQTT_USER="example"
+MQTT_PASS="example"
